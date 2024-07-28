@@ -1,0 +1,2365 @@
+// - - - - - - - - - - Prologue - - - - - - - - - -
+
+// Dragon Ball Minus
+// * Bardock ~ 4,500
+// * Leek ~ 1,100
+// * Taro ~ 1,800
+// * First Form Frieza ~ 26,500+
+// * -Full Power ~ 530,000
+// * Kikono ~ 420
+// * Raditz ~ 750
+// * Vegeta ~ 9,000
+// * Gine ~ 1,050
+// * Galactic Patrolmen ~ 750 to 1,200
+// * Jaco ~ 1,250
+// * Galactic King ~ 4,000
+// * Alien Race ~ 500
+// * Baby Goku ~ 2
+
+// Bardock Father of Goku
+// * Bardock ~ 10,000
+// * -Great Ape ~ 100,000
+// * -Zenkai ~ 10,600
+// * -Injured ~ 7,000
+// * -Heavily Injured ~ 5,300
+// * -Riot Javelin ~ 22,852
+// * Tora ~ 5,000
+// * -Great Ape ~ 50,000
+// * Shugesh ~ 4,200
+// * -Great Ape ~ 42,000
+// * Borgos ~ 4,000
+// * -Great Ape ~ 40,000
+// * Fasha ~ 2,000
+// * -Great Ape ~ 20,000
+// * Kanassan Warriors ~ 1,000
+// * Toolo ~ 1,100
+// * Average Saiyans ~ 1,500 to 3,000
+// * Frieza's Soldiers ~ 1,300
+// * Dodoria Elites ~ 4,400 to 5,000
+// * Dodoria ~ 20,400
+// * Zarbon ~ 21,500
+// * King Vegeta ~ 11,250
+// * Saibamen ~ 1,200
+// * Kid Vegeta ~ 6,200
+// * -Post Planet Vegeta ~ 12,000
+// * Nappa ~ 3,200
+// * First Form Frieza ~ 530,000
+// * -Super Nova ~ 600,000
+// * Baby Goku ~ 2
+
+// Episode of Bardock
+// * Frieza's Soldiers ~ 1,300
+// * Dodoria ~ 20,400
+// * Zarbon ~ 21,500
+// * First Form Frieza ~ 530,000
+// * Chilled ~ 10,600+
+// * -Full Power ~ 53,000
+// * -Super Nova ~ 670,000
+// * Bardock ~ 10,600
+// * -SSJ ~ 530,000
+// * -Rebellion Trigger ~ 850,000
+// * Toobi ~ 1,007
+// * Cabira ~ 1,060
+// * Plants ~ 5 to 7
+
+// - - - - - - - - - - Dragon Ball - - - - - - - - - -
+
+// Emperor Pilaf Saga
+// * Goku ~ 10
+// * -Hungry ~ 9
+// * -Janken Fist ~ 10.5
+// * -Kamehameha ~ 11.25
+// * -Great Ape ~ 100
+// * -Tailless ~ 9
+// * Humans ~ 3 to 5
+// * Sabertooth Tiger ~ 5.8
+// * Giant Fish ~ 4.6
+// * Bulma ~ 4
+// * Pterodactyl ~ 6.2
+// * Wolves ~ 5.4
+// * Bear Thief ~ 6.6
+// * Puar ~ 2.8
+// * Oolong ~ 3.2
+// * Yamcha ~ 9
+// * -Wolf Fang Fist ~ 9.45
+// * Chi-Chi ~ 6.5
+// * Dinosaur ~ 7
+// * Ox-King ~ 40
+// * Master Roshi ~ 50+
+// * -MAX Power ~ 80
+// * -MAX Kamehameha ~ 180
+// * Turtle ~ 0.001
+// * Baby Gamera ~ 5.6
+// * Pilaf ~ 4
+// * Shu ~ 4.5
+// * Mai ~ 4.2
+// * Rabbit Mob ~ 5
+// * Monster Carrot ~ 6
+
+// Curse of the Blood Rubies
+// * Goku ~ 10
+// * Gurumes Army Soldiers ~ 5
+// * Pansy ~ 2.5
+// * Pansy's Father ~ 5.5
+// * Puar ~ 2.8
+// * Oolong ~ 3.2
+// * Bulma ~ 4
+// * Giant Fish ~ 4.6
+// * Pasta ~ 8
+// * Yamcha ~ 9
+// * Bongo ~ 9.5
+// * King Gurumes ~ 38
+// * Turtle ~ 0.001
+// * Master Roshi ~ 50+
+// * -MAX Power ~ 80
+// * -MAX Kamehameha ~ 180
+// * Shenron ~ 330
+
+// Sleeping Beauty in Devil Castle
+// * Goku ~ 9
+// * -with Tail ~ 10
+// * -Great Ape ~ 100
+// * Oolong ~ 3.2
+// * Puar ~ 2.8
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Igor ~ 4.4
+// * Demons ~ 5.6
+// * Ghastel ~ 10.5
+// * Lucifer ~ 13
+// * Krillin ~ 8
+// * Yamcha ~ 9
+// * Master Roshi ~ 50+
+// * Turtle ~ 0.001
+
+// Tournament Saga
+// * Goku ~ 9
+// * -Training ~ 27
+// * -Post Training ~ 45
+// * -Tail Regrown ~ 50
+// * -Weakened ~ 18
+// * -Great Ape ~ 180
+// * Krillin ~ 8
+// * -Training ~ 24
+// * -Post Training ~ 36
+// * Orin Temple Seniors ~ 8.4 to 8.6
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Babasky ~ 6
+// * Jab ~ 5.75
+// * Mister Pe Pe ~ 6.2
+// * Ranfan ~ 7
+// * Bacterian ~ 11
+// * Yamcha ~ 9
+// * -Post Training ~ 14
+// * Giran ~ 30
+// * -Merry go Round Gum ~ 45
+// * Nam ~ 46
+// * Jackie Chun ~ 50+
+// * -MAX Power ~ 80
+// * -MAX Kamehameha ~ 180
+
+// Mystical Adventure
+// * Goku ~ 55
+// * -Post Korin Tower ~ 120
+// * Mifan Soldiers ~ 5.25
+// * Sergeant Metallic ~ 46
+// * Blue ~ 96
+// * Chiaotzu ~ 60
+// * Tien Shinhan ~ 90
+// * General Tao ~ 110
+// * Master Shen ~ 120
+// * Master Roshi ~ 69
+// * Krillin ~ 37
+// * Yamcha ~ 15
+// * Bora ~ 38
+// * Upa ~ 3.8
+// * Oolong ~ 3.2
+// * Puar ~ 2.8
+// * Bulma ~ 4
+// * Turtle ~ 0.001
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Pilaf ~ 4
+// * Shu ~ 4.5
+// * Mai ~ 4.2
+// * Korin ~ 190
+// * Senbei ~ 5
+// * Gatchans ~ 99
+// * Arale ~ 270+
+// * Shenron ~ 330
+
+// Red Ribbon Army Saga
+// * Goku ~ 51
+// * Pilaf ~ 4
+// * Shu ~ 4.5
+// * Mai ~ 4.2
+// * Red Ribbon Soldiers ~ 5.2
+// * Colonel Silver ~ 6.4
+// * Chi-Chi ~ 13
+// * Ox-King ~ 40
+// * Suno ~ 3.2
+// * Jingle Village Villagers ~ 3 to 5
+// * Major Metallitron ~ 46
+// * Ninja Murasaki ~ 7.2
+// * Android 8 ~ 40+
+// * -Full Power ~ 80
+// * Buyon ~ 47.5
+// * -Defense ~ 95
+// * General White ~ 5.4
+// * Bruce Lee Impersonator ~ 5.75
+// * Dr. Flappe ~ 4
+// * Hasky ~ 4.8
+
+// General Blue Saga
+// * Goku ~ 53
+// * -Janken Fist ~ 56
+// * -Kamehameha ~ 60
+// * Bulma ~ 4
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Red Ribbon Pilots ~ 5
+// * General Blue's Camp ~ 5.2
+// * Turtle ~ 0.001
+// * Master Roshi ~ 50+
+// * Captain Dark ~ 5
+// * Krillin ~ 36
+// * Octopapa ~ 40
+// * Pirate Robot ~ 50
+// * General Blue ~ 48
+// * -Psychic Powers ~ 96
+// * Penguin Village Villagers ~ 3 to 5
+// * Kuraaku Kenta ~ 5
+// * -Sourman ~ 5.5
+// * Gatchan 1 & 2 ~ 99
+// * Arale ~ 270+
+
+// Commander Red Saga
+// * Goku ~ 55
+// * -Kamehameha ~ 65
+// * -Post Korin Tower ~ 120
+// * -Kamehameha ~ 150
+// * Bora ~ 38
+// * Upa ~ 3.8
+// * Yellow's Soldiers ~ 5
+// * Captain Yellow ~ 5.3
+// * Blue ~ 48
+// * -Psychic Powers ~ 96
+// * Mercenary Tao ~ 110
+// * -Dodonpa ~ 120
+// * -Post Korin Tower ~ 115
+// * Assassin ~ 5
+// * Korin ~ 190
+// * Violet's Soldiers ~ 5
+// * Colonel Violet ~ 4.8
+// * Roshi ~ 69
+// * -Kamehameha ~ 135
+// * Yamcha ~ 15
+// * Krillin ~ 37
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Bulma ~ 4
+// * Oolong ~ 3.2
+// * Puar ~ 2.8
+// * Turtle ~ 0.001
+// * Red Ribbon Pilots ~ 5
+// * Red Ribbon Soldiers ~ 5.2
+// * Commander Red ~ 4
+// * Staff Officer Black ~ 8
+// * -Battle Jacket ~ 100
+
+// Path To Power
+// * Goku ~ 55
+// * -Kamehameha ~ 65
+// * -Enraged ~ 130
+// * -Kamehameha ~ 160
+// * Bulma ~ 4
+// * Yamcha ~ 15
+// * Oolong ~ 3.2
+// * Puar ~ 2.8
+// * Red Ribbon Soldiers ~ 5.2
+// * General White ~ 5.4
+// * Major Metallitron ~ 46
+// * Android 8: 80
+// * Turtle ~ 0.001
+// * Master Roshi ~ 69
+// * -Max Power ~ 80
+// * -Kamehameha ~ 180
+// * General Blue ~ 48
+// * Staff Officer Black ~ 8
+// * -Battle Jacket ~ 100
+// * Commander Red ~ 4
+// * Shenron ~ 330
+
+// Fortuneteller Baba Saga
+// * Goku ~ 125
+// * -Tailless ~ 115
+// * -Kamehameha ~ 140
+// * -Solitary Training ~ 150
+// * -Post Training ~ 180
+// * Ghost Usher ~ 4
+// * Fortuneteller Baba ~ 3
+// * Krillin ~ 37
+// * -Post Training ~ 105
+// * Fangs the Vampire ~ 5.6
+// * Upa ~ 3.8
+// * Invisible Man ~ 6.2
+// * Yamcha ~ 15
+// * -Post Training ~ 104
+// * Bandages the Mummy ~ 70
+// * Spike the Devilman ~ 100
+// * Grandpa Gohan ~ 115
+// * -Kamehameha ~ 140
+// * Pilaf ~ 4
+// * -Machine ~ 20
+// * Shu ~ 4.5
+// * -Machine ~ 25
+// * Mai ~ 4.2
+// * -Machine ~ 25
+// * Fused Pilaf Machine ~ 70
+// * -Escape Mode ~ 45
+// * Giant Snake ~ 6
+// * Tiger Thief ~ 6.6
+// * Terror ~ 6
+// * Plague ~ 6
+// * Chin Taiken ~ 30
+// * Rising Dragon ~ 20
+// * Sky Dragon ~ 40
+// * Misa ~ 3.2
+// * Aldeberans ~ 6
+// * Melee ~ 44
+// * Gola ~ 26
+// * Shura ~ 195
+// * Young Roshi ~ 25
+// * -Post Korin Training ~ 50
+// * Young Shen ~ 60
+// * Young Inoshikacho ~ 70
+// * Inoshikacho ~ 105
+// * Tien ~ 150
+// * -Post Training ~ 180
+// * Chiaotzu ~ 75
+// * -Post Training ~ 84
+// * Konkichi ~ 4.6
+// * Konkichi's "Friends" ~ 5.5
+// * Master Roshi ~ 69
+// * -Post Training ~ 139
+// * Launch ~ 4.2
+// * Oolong ~ 3.2
+// * Puar ~ 2.8
+// * Bulma ~ 4
+// * Master Shen ~ 120
+
+// Tien Shinhan Saga
+// * Master Roshi ~ 139
+// * Master Shen ~ 120
+// * Mohawked Fighter ~ 5.7
+// * Yamcha ~ 72+
+// * -Full Power ~ 104
+// * -Neo Wolf Fang Fist ~ 125
+// * -Kamehameha ~ 130
+// * Jackie Chun’s Opponent ~ 5.8
+// * Jackie Chun ~ 69+
+// * -Full Power ~ 180
+// * -Kamehameha ~ 220
+// * Antoine the Great ~ 13
+// * Krillin ~ 72.5+
+// * -Full Power ~ 105
+// * -Kamehameha ~ 130
+// * Nam ~ 56
+// * Tien ~ 115+
+// * -Vs. Yamcha ~ 120+
+// * -Full Power ~ 180
+// * -Kikoho ~ 360
+// * Preliminary Fighters ~ 4 to 8
+// * King Chappa ~ 96
+// * -Previous Tournament ~ 80
+// * Chiaotzu ~ 75+
+// * -Full Power ~ 84
+// * -Dodonpa ~ 105
+// * Goku ~ 115+
+// * -Vs. Krillin ~ 120+
+// * -Kamehameha ~ 150
+// * -Full Power ~ 180
+// * -Kamehameha ~ 220
+// * Young Tao ~ 55
+// * Young Shen ~ 60
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Puar ~ 2.8
+// * Oolong ~ 3.2
+// * Bulma ~ 4.2
+// * Man-Wolf ~ 9
+// * Pamput ~ 25
+// * Vodka ~ 5
+// * Announcer ~ 5
+// * Pamput's Body Guards ~ 5.3
+
+// King Piccolo Saga
+// * Piccolo's Minions ~ 40 to 200
+// * Mutaito's Disciples ~ 25 to 50
+// * Young Roshi ~ 55
+// * Young Shen ~ 65
+// * Master Mutaito ~ 230
+// * King Piccolo ~ 200+
+// * -Full Power ~ 220
+// * -Demon Wave ~ 444
+// * -Youth Restored ~ 250+
+// * -Chou Makuho ~ 360
+// * -Full Power ~ 260
+// * -Demon Wave ~ 500
+// * Piano ~ 8.8
+// * King Chappa’s Disciple ~ 20
+// * King Chappa ~ 100
+// * Pilaf ~ 4
+// * Shu ~ 4.5
+// * Mai ~ 4.2
+// * Tambourine ~ 130
+// * -Chou Makuho ~ 150
+// * Cymbal ~ 65
+// * -Electric Attack ~ 90
+// * Yajirobe ~ 150
+// * Giran ~ 40
+// * Bacterian ~ 15
+// * Man-Wolf ~ 9
+// * Master Roshi ~ 139
+// * -Full Power ~ 180
+// * Tien ~ 180
+// * -Majuba Training ~ 190
+// * -Training ~ 200
+// * -Dodonpa ~ 260
+// * Shenron ~ 330
+// * Suno ~ 3.5
+// * Upa ~ 3.8
+// * Bora ~ 38
+// * King’s Guard ~ 18
+// * King Furry ~ 5
+// * Darkness Ice Monster ~ 50
+// * Illusions Z-Fighters ~ 104 to 139
+// * Chi-Chi ~ 65
+// * Ox-King ~ 40
+// * Drum ~ 205
+// * Goku Fatigued ~ 90
+// * -Zenkai ~ 195
+// * -Kamehameha ~ 240
+// * -Post Super God Water ~ 260
+// * -Kamehameha ~ 390
+// * -Injured ~ 52
+// * -Great Ape Fist ~ 520
+// * -Mr. Popo Training ~ 280
+// * -Kamehameha ~ 420
+// * Escaped Prisoners ~ 5
+// * Tien's Opponent ~ 8
+// * -Injured ~ 4
+// * Bulma ~ 4.2
+// * Oolong ~ 3.2
+// * Puar ~ 2.8
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Mr. Popo ~ 280
+// * Kami ~ 330
+// * Yaochun ~ 20
+// * Fanfan ~ 5
+// * Master Shen's Lackeys ~ 25
+// * Goku Doll ~ 280
+// * -Kamehameha ~ 420
+// * Yamcha Injured ~ 72
+// * -Training ~ 160
+// * -Kamehameha ~ 200
+// * Krillin ~ 105
+// * -Training ~ 180
+// * -Kamehameha ~ 225
+// * Chiaotzu ~ 84
+// * -Training ~ 100
+// * Baby Piccolo ~ 2
+// * -Kid ~ 20
+// * Doggo ~ 5.2
+
+// Piccolo Junior Saga
+// * Bulma ~ 4.2
+// * Launch ~ 4.2
+// * Puar ~ 3.2
+// * Oolong ~ 3.5
+// * Master Roshi ~ 139
+// * Weighted Goku ~ 180+
+// * -Less Suppressed ~ 220+
+// * -Vs. Tien ~ 240+
+// * -Full Power ~ 300
+// * -Unweighted ~ 400
+// * -Super Kamehameha ~ 910
+// * -Fatigued ~ 380
+// * -Final Attack ~ 400
+// * Yamcha ~ 160+
+// * -Full Power ~ 180
+// * -Wolf Fang Fist ~ 198
+// * -Spirit Ball ~ 216
+// * Chiaotzu ~ 105
+// * Cyborg Tao ~ 210
+// * -Super Dodonpa ~ 231
+// * Master Shen ~ 120
+// * Tien ~ 180+
+// * -Less Suppressed ~ 236+
+// * -Full Power ~ 240
+// * -Full Speed ~ 275
+// * Yajirobe ~ 150
+// * Hero Lucky ~ 180+
+// * -Vs. Yamcha ~ 220+
+// * -Full Power ~ 330
+// * -with out Kami ~ 4.7
+// * Krillin ~ 160+
+// * -Full Power ~ 200
+// * -Double Tsuibikidan ~ 220
+// * -Kamehameha ~ 250
+// * Piccolo ~ 180+
+// * -Vs. Krillin ~ 220+
+// * -Vs. Kami ~ 357.5+
+// * -Full Power ~ 390
+// * -First Demon Wave ~ 616
+// * -Full Power Demon Wave ~ 890
+// * -Super Explosive Wave ~ 780
+// * -Fatigued ~ 375
+// * -Final Attack ~ 390
+// * King Chappa ~ 125
+// * Chi-Chi ~ 130
+// * Ox-King ~ 65
+// * Announcer ~ 5
+// * Jasmine ~ 3.5
+// * Oonaan ~ 3.5
+// * Pilaf ~ 4
+// * Shu ~ 4.5
+// * Mai ~ 4.2
+// * Pilaf Machine ~ 50
+// * Turtle ~ 0.001
+// * Grandma Hakkake ~ 3
+// * Fortuneteller Baba ~ 3
+// * Bansho Fan ~ 300
+// * Grandpa Gohan ~ 115
+// * Annin ~ 220
+// * -Giant ~ 330
+
+// - HP Bars 1
+
+// - - - - - - - - - - Dragon Ball Z - - - - - - - - - -
+
+// Dead Zone
+// * Piccolo ~ 322+
+// * -Explosive Demon Wave ~ 735
+// * -Unweighted ~ 408
+// * Gohan ~ 3
+// * -Enraged ~ 1,307
+// * Garlic Jr. ~ 400
+// * -Transformed ~ 1,450
+// * Kami ~ 220
+// * Nicky ~ 175+
+// * -Powered Up ~ 250
+// * Ginger ~ 175+
+// * -Powered Up ~ 250
+// * Sansho ~ 175+
+// * -Powered Up ~ 250
+// * Goku ~ 334+
+// * -Unweighted ~ 416
+// * -Kamehameha ~ 924
+// * Master Roshi ~ 139
+// * Ox-King ~ 97
+// * Chi-Chi ~ 137
+// * Bulma ~ 4.2
+
+// - HP Bars 2
+
+// Raditz Saga
+// * Raditz ~ 1,500
+// * -Double Sunday ~ 1,600
+// * -Injured ~ 790
+// * Earthlings ~ 5
+// * Farmer ~ 5
+// * Goku ~ 334+
+// * -Unweighted ~ 416
+// * -Kamehameha ~ 924
+// * Piccolo ~ 322+
+// * -Explosive Demon Wave ~ 735
+// * -Unweighted ~ 408
+// * -Special Beam Cannon ~ 1,330
+// * -2nd Special Beam Cannon ~ 1,480
+// * -Post Battle ~ 329
+// * Master Roshi ~ 139
+// * Krillin ~ 206
+// * Gohan ~ 3
+// * -Upset ~ 710
+// * -Enraged ~ 1,307
+// * -Drained ~ 1
+// * Saiyans ~ 1,200
+// * -Great Ape ~ 12,000
+// * King Yemma ~ 2,600
+// * Ogres ~ 130
+// * Kami ~ 220
+// * Chi-Chi ~ 137
+// * Ox-King ~ 97
+// * Sabertooth Tiger ~ 5.8
+// * Bulma ~ 4.2
+// * Turtle ~ 0.001
+
+// Saiyan Saga
+// * Kami ~ 220
+// * Chi-Chi ~ 137
+// * Goku ~ 334
+// * -Post Ensenji Fruit ~ 700
+// * -King Kai Training ~ 1,250
+// * Krillin ~ 206
+// * -Training ~ 443
+// * -Kamehameha ~ 1,000
+// * Mr. Popo ~ 1,030
+// * Ox King ~ 97
+// * Giant Dinosaur ~ 35
+// * Fortune Teller Baba ~ 3
+// * Ogres ~ 130
+// * Bulma ~ 4.2
+// * Master Roshi ~ 139
+// * Turtle ~ 0.001
+// * Gohan ~ 3
+// * -True Power ~ 1,307
+// * -Great Ape ~ 13,070
+// * -Wilderness Training ~ 50
+// * -Piccolo Training ~ 525
+// * Piccolo ~ 329
+// * -Training ~ 1,050
+// * Robot ~ 7.25
+// * Orphan Kids ~ 3.5
+// * Adults ~ 5
+// * Pigero ~ 5.25
+// * Yajirobe ~ 150
+// * -Training ~ 350
+// * Yamcha ~ 177
+// * -Training ~ 370
+// * -Sokidan ~ 750
+// * Puar ~ 3.25
+// * Dinosaur ~ 7
+// * Vegeta ~ 15,000+
+// * Nappa ~ 4,000
+// * Arlian Denizens ~ 175
+// * Arlian Monsters ~ 300 to 700
+// * Yetti ~ 1,250
+// * Launch ~ 4.2
+// * -Bad ~ 5.6
+// * Chiaotzu ~ 130
+// * -Training ~ 237
+// * Tien ~ 250
+// * -Training ~ 457
+// * -Kikoho ~ 1,250
+// * Sabertooth Tiger ~ 5.8
+// * Goz ~ 210
+// * Mez ~ 210
+// * Bora ~ 38
+// * Upa ~ 19
+// * Princess Snake Assistant ~ 25
+// * Princess Snake ~ 50
+// * -Transformed ~ 470
+// * Shorty ~ 3,000
+// * Scarface ~ 3,000
+// * Bubbles ~ 1,000
+// * Gregory ~ 1,100
+// * King Kai ~ 3,500
+// * Historical Truffles ~ 150
+// * Historical Saiyans ~ 1,500
+// * -Great Ape ~ 15,000
+// * Rich Alien Guys ~ 530
+
+// Vegeta Saga
+// * Vegeta ~ 16,000+
+// * -Full Power ~ 18,000
+// * -Galick Gun ~ 24,000
+// * -Post Power Ball ~ 7,000
+// * -Great Ape ~ 70,000
+// * -Injured ~ 6,000
+// * -Heavily Injured ~ 4,500
+// * -Beaten ~ 900
+// * Nappa ~ 4,000
+// * -Adapting ~ 6,400
+// * -Greatest Technique ~ 8,000
+// * Saibamen ~ 1,200
+// * -Self Destruct ~ 2,400
+// * Piccolo ~ 1,220+
+// * -Full Power ~ 3,500
+// * Krillin ~ 1,083+
+// * -Full Power ~ 1,770
+// * -Scatter Shot ~ 3,540
+// * -Destructo Disk ~ 5,310
+// * -Weakened Spirit Bomb ~ 36,000
+// * Gohan ~ 981+
+// * -Full Power ~ 1,250
+// * -Enraged ~ 2,500
+// * -Masenko ~ 2,800
+// * -Zenkai ~ 1,750
+// * -Vs. Vegeta ~ 3,500
+// * -Injured ~ 1,000
+// * -Great Ape ~ 10,000
+// * Chiaotzu ~ 610
+// * -Self Destruct ~ 2,440
+// * Yajirobe ~ 970
+// * Tien ~ 1,100+
+// * -Full Power ~ 1,830
+// * -Injured ~ 610
+// * -Final Kikoho ~ 3,660
+// * Yamcha ~ 1,000+
+// * -Full Power ~ 1,480
+// * -Kamehameha ~ 1,850
+// * Goku ~ 5,000+
+// * -Full Power ~ 8,000
+// * -Kaioken ~ 12,000
+// * -Kaioken x2 ~ 16,000
+// * -Kaioken x3 ~ 24,000
+// * -Kaioken x4 ~ 32,000
+// * -Spirit Bomb ~ 72,000
+// * Master Roshi ~ 690
+// * Ox-King ~ 97
+// * Chi-Chi ~ 137
+// * Korin ~ 190
+
+// The World's Strongest
+// * Master Roshi ~ 690
+// * -Fighting Skilfully ~ 1,390
+// * Goku ~ 9,000
+// * -Kaioken x2 ~ 18,000
+// * -Kaioken x3 ~ 27,000
+// * -Kaioken x4 ~ 36,000
+// * -Spirit Bomb ~ 72,000
+// * Gohan ~ 1,700
+// * Krillin ~ 1,770
+// * Piccolo ~ 6,400+
+// * -Unweighted ~ 8,100
+// * Bio-Men ~ 1,000
+// * Ebifury ~ 7,500
+// * Kishime ~ 7,000
+// * Misokatsun ~ 4,300
+// * Dr. Kochin ~ 8
+// * Dr. Wheelo ~ 39,000
+// * Oolong ~ 3.6
+// * Turtle ~ 0.001
+// * Bulma ~ 4.2
+// * Chi-Chi ~ 137
+
+// The Tree of Might
+// * Turles ~ 19,000
+// * -Post Power Ball ~ 16,000
+// * -1st Fruit ~ 380,000
+// * -2nd Fruit ~ 760,000
+// * Rasin ~ 8,000
+// * Lakasei ~ 7,600
+// * Amond ~ 9,100
+// * Daiz ~ 13,000
+// * Cacao ~ 8,400
+// * -Rocket Propulsion ~ 13,000
+// * Krillin ~ 1,840
+// * Yamcha ~ 1,480
+// * Tien ~ 1,830
+// * Chiaotzu ~ 610
+// * Piccolo ~ 14,200+
+// * -Unweighted ~ 18,000
+// * -Injured ~ 14,000
+// * Gohan ~ 10,000
+// * -Great Ape ~ 100,000
+// * Goku ~ 30,000
+// * -Kaioken x2 ~ 60,000
+// * -Kaioken x10 ~ 300,000
+// * -Super Spirit Bomb ~ 900,000
+// * King Kai ~ 3,500
+// * Icarus ~ 5.75
+// * Puar ~ 3.25
+// * Oolong ~ 3.5
+// * Bulma ~ 4.2
+// * Chi-Chi ~ 137
+
+// Namek Saga
+// * Gohan ~ 1,520+
+// * -Full Power ~ 1,800
+// * -Potential Unlocked ~ 14,000
+// * Krillin ~ 1,480+
+// * -Full Power ~ 1,840
+// * -Potential Unlocked ~ 13,000
+// * Banan ~ 1,100
+// * Sui ~ 1,100
+// * Appule ~ 1,700
+// * Frieza Soldiers ~ 1,500 to 2,000
+// * Cui ~ 18,000
+// * Dodoria ~ 22,000
+// * Zarbon ~ 23,000
+// * -Transformed ~ 30,000
+// * Vegeta ~ 16,000+
+// * -Full Power ~ 24,000
+// * -Zenkai ~ 30,000
+// * Goku ~ 9,000
+// * -Gravity Training ~ 36,000
+// * Bulma ~ 4.2
+// * Namekians ~ 1,000
+// * Tsuno ~ 1,020
+// * Moori ~ 1,050
+// * Dende ~ 4.2
+// * -Potential Unlocked ~ 420
+// * Warrior Namekians ~ 1,000+
+// * -Full Power ~ 3,000
+// * Guru ~ 2,000
+// * Warrior Namekians 2 ~ 4,000+
+// * -Full Power ~ 10,000
+// * Nail ~ 42,000
+// * First Form Frieza ~ 85,000+
+// * Zeshin ~ 10
+// * Bun ~ 10
+// * Zaacro ~ 500
+// * Raiti ~ 500
+
+// Captain Ginyu Saga
+// * Yamcha ~ 1,480
+// * -Training ~ 2,400
+// * Tien ~ 1,830
+// * -Training ~ 2,700
+// * Chiaotzu ~ 610
+// * -Training ~ 900
+// * Piccolo ~ 2,800+
+// * -Training ~ 3,250+
+// * King Kai ~ 3,500
+// * Dende ~ 420
+// * Krillin ~ 13,000
+// * -Vs. Goku Ginyu ~ 24,000
+// * Gohan ~ 14,000
+// * -Masenko ~ 20,000
+// * -Vs. Goku Ginyu ~ 25,000
+// * Vegeta ~ 30,000
+// * -Zenkai ~ 60,000
+// * Guldo ~ 10,000
+// * Recoome ~ 40,000
+// * Jeice ~ 42,000
+// * Burter ~ 43,000
+// * Purple Spiral Flash ~ 85,000
+// * Captain Ginyu ~ 120,000
+// * -Injured ~ 15,000
+// * -Goku Body ~ 23,000
+// * -Ginyu Frog ~ 2.4
+// * Bulma ~ 4.2
+// * Frog Ginyu Body ~ 4.8
+// * Goku ~ 5,000+
+// * -Full Power ~ 90,000
+// * -Kaioken x2 ~ 180,000
+// * -Ginyu Body ~ 15,000
+// * First Form Frieza ~ 500,000+
+// * Piccolo ~ 260,000+
+
+// Lord Slug
+// * Slug Soldiers ~ 130
+// * Goku ~ 90,000
+// * -FSSJ ~ 4,500,000
+// * -Kaioken x100 ~ 9,000,000
+// * -Spirit Bomb ~ 12,000,000
+// * Chi-Chi ~ 130
+// * Gohan ~ 25,000
+// * Krillin ~ 24,000
+// * Piccolo ~ 65,000+
+// * -Unweighted ~ 82,500
+// * Gyoshu ~ 2,000
+// * Kakuja ~ 2,000
+// * King Kai ~ 3,500
+// * Commander Zeeun ~ 36,000
+// * Wings ~ 39,500
+// * Angila ~ 48,000
+// * Medamatcha ~ 42,000
+// * -Medas ~ 10,500
+// * Lord Slug ~ 2,200,000
+// * -Youth Restored ~ 2,600,000
+// * -Great Namekian ~ 5,200,000
+// * Yajirobe ~ 970
+// * Master Roshi ~ 690
+// * Oolong ~ 3.5
+// * Bulma ~ 4.2
+// * Dr. Brief ~ 4.2
+// * Icarus ~ 5.75
+
+// - HP Bars 3
+
+// Frieza Saga
+// * Bulma ~ 4.2
+// * Ginyu Frog ~ 2.4
+// * Namekian Monsters ~ 7.5 to 50
+// * First Form Frieza ~ 500,000+
+// * -Full Power ~ 530,000
+// * -Second Form ~ 1,060,000+
+// * -Full Power ~ 1,200,000
+// * -Third Form ~ 1,590,000
+// * -True Form ~ 2,400,000+
+// * -Vs. Vegeta ~ 2,930,000+
+// * -Vs. Goku ~ 3,320,000+
+// * -33% ~ 40,000,000
+// * -50% ~ 60,000,000
+// * -70% ~ 84,000,000
+// * -Death Ball ~ 100,000,000
+// * -100% ~ 120,000,000
+// * -Fatigued ~ 100,000,000
+// * -Defeat ~ 2,400,000
+// * -Death Saucer ~ 30,000,000
+// * -Bisected ~ 1,200,000
+// * -w / some of Goku's Ki ~ 31,200,000
+// * -Final Attack ~ 46,800,000
+// * -Heavily Injured ~ 3,120
+// * Dende ~ 420
+// * Gohan ~ 200,000
+// * -Vs. 2nd Form Frieza ~ 500,000
+// * -Enraged ~ 1,000,000
+// * -Zenkai ~ 800,000
+// * -Enraged, Vs. 3rd Form Frieza ~ 1,600,000
+// * -Potential Unleashed ~ 1,065,000
+// * -Enraged, Vs. 100% Frieza ~ 2,130,000
+// * Krillin ~ 75,000
+// * -Vs. 2nd Form Frieza ~ 150,000
+// * -Potential Unleashed ~ 1,050,000
+// * Piccolo ~ 260,000+
+// * -Fused with Nail ~ 1,060,000+
+// * -Unweighted ~ 1,200,000
+// * -w. Gohan + Krillin Ki ~ 3,315,000
+// * Vegeta ~ 250,000
+// * -Super Zenkai ~ 2,500,000
+// * Goku ~ 3,000,000
+// * -Kaioken x10 ~ 30,000,000
+// * -Kaioken x20 ~ 60,000,000
+// * -Large Spirit Bomb ~ 72,000,000
+// * -SSJ ~ 75,000,000+
+// * -Serious ~ 120,000,000
+// * -Full Power ~ 150,000,000
+// * -Tired ~ 120,000,000
+// * -Shared Energy w / Frieza ~ 90,000,000
+// * -Angry Kamehameha ~ 150,000,000
+// * -On Yadrat ~ 3,040,000
+// * -SSJ ~ 152,000,000
+// * Yamcha ~ 45,000
+// * -Post Training ~ 900,000
+// * Tien ~ 90,000
+// * -Post Training ~ 1,000,000
+// * Chiaotzu ~ 11,250
+// * -Post Training ~ 337,500
+// * Guldo ~ 10,000
+// * Recoome ~ 40,000
+// * Jeice ~ 42,000
+// * Burter ~ 43,000
+// * Purple Spiral Flash ~ 85,000
+// * King Kai ~ 3,500
+// * Guru ~ 2,000
+// * Moori ~ 1,050
+// * Namekians ~ 1,000 to 10,000
+// * Yadrats ~ 700 to 1,150
+// * Soba ~ 14,000,000
+
+// Garlic Junior Saga
+// * Kami ~ 220
+// * Mr. Popo ~ 1,030
+// * Garlic Minions ~ 130
+// * Past Kami ~ 300
+// * Garlic ~ 330
+// * Korin ~ 190
+// * Piccolo ~ 1,120,000+
+// * -Unweighted ~ 1,350,000
+// * -Weakening ~ 1,240,000
+// * Yamcha ~ 900,000
+// * Chi-Chi ~ 130
+// * Master Roshi ~ 690
+// * Krillin ~ 1,050,000
+// * -Scatter-Shot ~ 1,260,000
+// * Gohan ~ 1,075,000
+// * -Masenko ~ 1,300,000
+// * -Enraged, Vs. Spice & Vinegar ~ 1,612,500
+// * -Enraged, Vs. Garlic Jr. ~ 1,881,250
+// * -Enraged Full Power ~ 2,150,000
+// * Mustard ~ 1,150,000
+// * Spice ~ 1,200,000
+// * -Transformed ~ 1,500,000
+// * Vinegar ~ 1,175,000
+// * -Transformed ~ 1,450,000
+// * Garlic Jr. ~ 1,300,000
+// * -Transformed ~ 1,650,000
+// * -Weakened ~ 165
+// * Makyo Star ~ 1,950,000
+// * Vegeta ~ 2,600,000
+// * Litts ~ 860
+// * Appule's Race ~ 1,300
+// * SSJ Goku ~ 152,000,000
+// * Ox-King ~ 97
+// * Giant Eel ~ 50
+// * Humans ~ 5
+// * Wild Animals ~ 5.5
+// * Turtle ~ 0.001
+// * Puar ~ 3.25
+// * Oolong ~ 3.5
+// * Bulma ~ 4.2
+// * Maron ~ 4.2
+
+// Cooler’s Revenge
+// * First Form Frieza ~ 530,000
+// * True Form Cooler ~ 2,900,000+
+// * -Super Evolution ~ 145,000,000
+// * Krillin ~ 1,050,000
+// * Gohan ~ 80+
+// * -Tail Grabbed ~ 50
+// * -Full Power ~ 1,080,000
+// * Piccolo ~ 1,540,000+
+// * -Unweighted ~ 1,950,000
+// * Bardock ~ 10,600
+// * -Injured ~ 7,000
+// * -Heavily Injured ~ 5,300
+// * -Riot Javelin ~ 22,852
+// * Doore ~ 185,000
+// * Neiz ~ 163,000
+// * Salza ~ 170,000
+// * -Energy Blade ~ 1,700,000
+// * Goku ~ 3,040,000
+// * -Kaioken x10 ~ 30,400,000
+// * -Kaioken x20 ~ 60,800,000
+// * -SSJ ~ 152,000,000
+// * Oolong ~ 3.5
+// * Icarus ~ 5.75
+// * Chi-Chi ~ 130
+// * Korin ~ 190
+// * Master Roshi ~ 690
+// * Yajirobe ~ 970
+
+// History of Trunks
+// * Future Bulma ~ 4
+// * Young Future Trunks ~ 50,000
+// * -SSJ ~ 2,500,000
+// * -Post Training ~ 2,800,000
+// * -SSJ ~ 140,000,000
+// * Future Android 17 ~ 128,000,000+
+// * -Full Power ~ 256,000,000
+// * Future Android 18 ~ 122,000,000+
+// * -Full Power ~ 244,000,000
+// * Future Gohan ~ 2,600,000
+// * -SSJ ~ 130,000,000
+// * -Post Training ~ 2,800,000
+// * -SSJ ~ 140,000,000
+// * Future Vegeta ~ 2,750,000
+// * -SSJ ~ 137,500,000
+// * Future Krillin ~ 1,100,000
+// * Future Yamcha ~ 900,000
+// * Future Tien ~ 1,080,000
+// * Future Piccolo ~ 3,300,000
+// * Future Yajirobe ~ 970
+
+// - HP Bars 4
+
+// Trunks Saga
+// * King Cold ~ 2,700,000+
+// * -Full Power ~ 90,000,000
+// * Mecha Frieza ~ 2,600,000+
+// * -Vs. Trunks ~ 43,300,000+
+// * -Super Nova ~ 65,000,000
+// * -Unseen Full Power ~ 130,000,000
+// * King Cold's Army ~ 1,000 to 1,500
+// * Future Trunks ~ 5+
+// * -Full Power ~ 3,000,000
+// * -SSJ ~ 150,000,000
+// * Goku ~ 3,120,000
+// * -SSJ ~ 156,000,000
+// * -Pre-Android Training ~ 3,150,000
+// * Gohan ~ 1,125,000
+// * -Heavily Suppressed ~ 4.5
+// * -Pre-Android Training ~ 1,250,000
+// * Piccolo ~ 2,250,000
+// * -Pre-Android Training ~ 2,950,000
+// * Vegeta ~ 2,700,000
+// * -Pre-Android Training ~ 2,750,000
+// * -SSJ ~ 137,500,000
+// * Krillin ~ 1,100,000
+// * Tien ~ 1,050,000
+// * Chiaotzu ~ 350,000
+// * Yamcha ~ 900,000
+// * Giant Asteroid ~ 5,000,000
+// * King Vegeta ~ 11,250
+// * Mr. Shuu ~ 5
+// * Chi-Chi ~ 130
+// * Bulma ~ 4.2
+// * Wild Boar ~ 6.25
+// * Yukuzar ~ 4
+// * Cynthia ~ 4.2
+// * Icarus ~ 5.75
+
+// Android Saga
+// * Goku ~ 3,900,000
+// * -Sick ~ 3,500,000
+// * -SSJ ~ 175,000,000
+// * -Unseen Full Power ~ 195,000,000
+// * -Sick and Drained ~ 140,000,000
+// * -Sick and Drained Base ~ 2,800,000
+// * -Heart Virus ~ 3.9
+// * Gohan ~ 2,900,000
+// * Tien ~ 2,100,000
+// * Yamcha ~ 1,800,000
+// * Krillin ~ 2,300,000
+// * Chiaotzu ~ 700,000
+// * Android 20 ~ 128,000,000
+// * -Yamcha's Ki ~ 129,800,000
+// * -Vegeta's Blast ~ 154,800,000
+// * -Piccolo's Ki ~ 158,100,000
+// * Android 19 ~ 122,000,000
+// * -Goku's Kamehameha ~ 157,000,000
+// * -+Goku's Ki ~ 160,000,000
+// * Vegeta ~ 4,000,000
+// * -SSJ ~ 200,000,000
+// * Android 17 ~ 256,000,000+
+// * -Full Power ~ 320,000,000
+// * Android 18 ~ 244,000,000+
+// * -Full Power ~ 280,000,000
+// * -Heavily Suppressed ~ 2,800,000+
+// * Android 16 ~ 220,000,000+
+// * Piccolo ~ 3,300,000+
+// * -Unweighted ~ 165,000,000
+// * Future Trunks ~ 3,850,000
+// * -SSJ ~ 192,500,000
+// * Turtle ~ 0.001
+// * Baby Trunks ~ 2
+// * Maron ~ 4.2
+// * Bulma ~ 4.2
+// * Beach Dudes ~ 5
+// * Chi-Chi ~ 130
+// * Master Roshi ~ 690
+// * Yajirobe ~ 970
+// * Biker Gang ~ 5.25
+
+// Return of Cooler
+// * Meta-Cooler ~ 376,000,000
+// * -Repaired ~ 475,000,000
+// * -Repaired Again ~ 500,000,000
+// * -Core ~ 470,000,000
+// * Goku ~ 7,800,000
+// * -Kaioken x20 ~ 156,000,000
+// * -SSJ ~ 390,000,000
+// * Vegeta ~ 8,000,000
+// * -SSJ ~ 400,000,000
+// * Cyclopian Guards ~ 2,000,000
+// * Gohan ~ 2,900,000
+// * Krillin ~ 2,300,000
+// * Piccolo ~ 6,600,000+
+// * -Unweighted ~ 330,000,000
+// * Dragon Clan Namekians ~ 1,000
+// * Warrior Namekians ~ 3,000
+// * Moori ~ 1,050
+// * Dende ~ 840
+// * Master Roshi ~ 690
+// * Yajirobe ~ 970
+// * Guide Robo ~ 1,175
+// * Mr. Popo ~ 1,030
+// * Oolong ~ 3.5
+
+// Super Android 13
+// * Goku ~ 7,800,000
+// * -SSJ ~ 390,000,000
+// * -Spirit Bomb SSJ ~ 1,125,000,000
+// * Vegeta ~ 8,000,000
+// * -SSJ ~ 400,000,000
+// * Android 14 ~ 192,500,000
+// * Android 15 ~ 175,000,000
+// * Android 13 ~ 195,000,000
+// * -Super Android 13 ~ 657,500,000
+// * Future Trunks ~ 7,000,000
+// * -SSJ ~ 350,000,000
+// * Piccolo ~ 260,000,000+
+// * -Unweighted ~ 330,000,000
+// * Android 17 ~ 320,000,000
+// * Krillin ~ 2,990,000
+// * Gohan ~ 6,700,000
+// * Oolong ~ 3.5
+// * Chi-Chi ~ 130
+// * Master Roshi ~ 690
+
+// Imperfect Cell Saga
+// * Kami ~ 220
+// * Mr. Popo ~ 1,030
+// * Piccolo ~ 130,000,000+
+// * -Fused with Kami ~ 260,000,000+
+// * -Demon Wave ~ 275,000,000
+// * -Succed ~ 208,000,000
+// * -Post Regeneration ~ 257,400,000
+// * -Unweighted ~ 330,000,000
+// * -Hellzone Grenade ~ 360,000,000
+// * -Light Grenade ~ 412,500,000
+// * Imperfect Cell ~ 250,000,000
+// * -+15,000 Humans ~ 255,000,000
+// * -Kamehameha ~ 275,000,000
+// * -+Piccolo's Arm ~ 256,300,000
+// * -+600,000 Humans ~ 450,000,000
+// * -Semi Perfect Form ~ 570,000,000+
+// * Android 17 ~ 320,000,000
+// * -Barrier ~ 400,000,000
+// * Android 18 ~ 280,000,000
+// * Android 16 ~ 440,000,000
+// * Krillin ~ 2,650,000
+// * Yamcha ~ 1,800,000
+// * Tien ~ 2,400,000
+// * -Neo Tri-Beam ~ 144,000,000
+// * Gohan ~ 3,150,000
+// * Future Trunks ~ 3,950,000
+// * Vegeta ~ 4,125,000
+// * Goku Recovered ~ 4,200,000
+// * Turtle ~ 0.001
+// * Baby Trunks ~ 2
+// * Bulma ~ 4.2
+// * Mrs. Brife ~ 4.2
+// * Dr. Brife ~ 4.25
+// * Chi-Chi ~ 130
+// * Korin ~ 190
+// * Master Roshi ~ 690
+// * Yajirobe ~ 970
+// * Richest Guy in Gingertown ~ 4.5
+// * Random Army Tanks ~ 25.5
+// * Human Kids ~ 3.5
+// * Human Adults ~ 5
+// * Dr. Gero ~ 3.6
+// * Battle Ball Team Members ~ 5.5
+
+// Perfect Cell Saga
+// * Android 18 ~ 280,000,000
+// * Android 16 ~ 440,000,000
+// * Semi Perfect Cell ~ 570,000,000+
+// * -Full Power ~ 770,000,000
+// * -Perfect Form ~ 850,000,000+
+// * -Vs. Vegeta Warming Up ~ 1,050,000,000+
+// * -Vs. Trunks ~ 1,250,000,000+
+// * -Bulked Up ~ 1,625,000,000+
+// * Vegeta ~ 16,000,000
+// * -SSJ ~ 800,000,000
+// * -ASSJ ~ 1,000,000,000
+// * -Final Flash ~ 1,200,000,000
+// * Future Trunks ~ 15,500,000
+// * -SSJ ~ 775,000,000
+// * -ASSJ ~ 950,000,000
+// * -USSJ ~ 1,250,000,000
+// * -Full Power ~ 1,500,000,000
+// * Gohan ~ 3,150,000
+// * -SSJ ~ 157,500,000
+// * -Training ~ 15,000,000
+// * -SSJ ~ 750,000,000
+// * -Glimpse of SSJ2 ~ 1,500,000,000
+// * Goku ~ 4,200,000
+// * -SSJ ~ 210,000,000
+// * -Training ~ 16,500,000
+// * -SSJ ~ 825,000,000
+// * -ASSJ ~ 1,100,000,000
+// * -USSJ ~ 1,300,000,000
+// * Krillin ~ 2,650,000
+
+// The Legendary Super Saiyan
+// * Paragus ~ 2,000
+// * King Vegeta ~ 11,000
+// * Broly ~ 1,750+
+// * -Full Power ~ 17,500,000
+// * -SSJ ~ 875,000,000
+// * -LSSJ ~ 1,400,000,000
+// * Goku ~ 16,800,000
+// * -SSJ ~ 840,000,000
+// * -Injured ~ 504,000,000
+// * -Miracle Blow ~ 2,250,000,000
+// * Gohan ~ 12,500,000
+// * -SSJ ~ 625,000,000
+// * -Injured ~ 375,000,000
+// * Vegeta ~ 16,000,000
+// * -SSJ ~ 800,000,000
+// * -Injured ~ 504,000,000
+// * Future Trunks ~ 15,700,000
+// * -SSJ ~ 785,000,000
+// * -Injured ~ 471,000,000
+// * Piccolo ~ 520,000,000+
+// * -Unweighted ~ 660,000,000
+// * -Injured ~ 396,000,000
+// * Krillin ~ 2,990,000
+// * King Kai ~ 3,500
+// * Master Roshi ~ 690
+// * Moah ~ 630
+// * Angol ~ 700
+// * Shamoians ~ 3.5
+// * Oolong ~ 3.5
+// * Mrs. Brief ~ 4.2
+// * Bulma ~ 4.2
+// * Dr. Brief ~ 4.25
+// * Chi-Chi ~ 130
+
+// Plan to Eradicate the Saiyans
+// * Future Trunks ~ 15,700,000
+// * -SSJ ~ 785,000,000
+// * Vegeta ~ 16,000,000
+// * -SSJ ~ 800,000,000
+// * Goku ~ 16,800,000
+// * -SSJ ~ 840,000,000
+// * Piccolo ~ 520,000,000+
+// * -Unweighted ~ 660,000,000
+// * Gohan ~ 12,500,000
+// * -SSJ ~ 625,000,000
+// * Combined Ultimates ~ 3,670,000,000
+// * Hatchiyack ~ 1,600,000,000
+// * -Giant ~ 2,000,000,000
+// * -Super Hatchiyack ~ 2,400,000,000
+// * Tuffles ~ 150
+// * Dr. Lychee ~ 7.5
+// * Saiyans ~ 1,500
+// * -Great Ape ~ 15,000
+// * Humans ~ 3 to 5
+// * Bulma ~ 4.2
+
+// Cell Games Saga
+// * Perfect Cell ~ 2,500,000,000+
+// * -Post Regeneration ~ 2,275,000,000
+// * -Sped-Up ~ 3,125,000,000
+// * -Full Power ~ 3,750,000,000
+// * -Power Weighted ~ 4,000,000,000
+// * -Semi Perfect Form ~ 770,000,000
+// * -Self Destruct ~ 3,600,000,000
+// * -Super Perfect Form ~ 5,000,000,000
+// * -Solar Kamehameha ~ 6,250,000,000
+// * MSSJ Goku ~ 45,000,000+
+// * -Half Power ~ 1,125,000,000+
+// * -Full Power ~ 2,250,000,000
+// * -Instant Kamehameha ~ 2,812,500,000
+// * -Fatigued ~ 1,500,000,000
+// * MSSJ Gohan ~ 50,000,000+
+// * -Vs. Cyborg Tao ~ 500+
+// * -Full Power ~ 2,500,000,000
+// * -SSJ2 ~ 3,750,000,000+
+// * -Full Power ~ 5,000,000,000
+// * -Heavily Injured ~ 2,500,000,000
+// * -Kamehameha ~ 3,125,000,000
+// * -Father Son Kamehameha ~ 5,375,000,000
+// * -Full Power ~ 6,275,000,000
+// * Cell Juniors ~ 2,050,000,000
+// * -Kamehameha ~ 2,562,500,000
+// * -Special Beam Cannon ~ 2,725,000,000
+// * -Tri-Beam ~ 3,075,000,000
+// * Vegeta ~ 36,000,000
+// * -SSJ ~ 1,800,000,000
+// * -Enraged ~ 2,400,000,000
+// * -Fatigued ~ 900,000,000
+// * Future Trunks ~ 34,500,000
+// * -SSJ ~ 1,725,000,000
+// * -Revived ~ 35,000,000
+// * -SSJ ~ 1,750,000,000
+// * -3 Years Later ~ 45,000,000
+// * -SSJ ~ 2,250,000,000
+// * -Finish Buster ~ 2,700,000,000
+// * Piccolo ~ 1,300,000,000+
+// * -Unweighted ~ 1,650,000,000
+// * Android 16 ~ 440,000,000
+// * -Self Destruct ~ 3,200,000,000
+// * Android 18 ~ 280,000,000
+// * Caroni ~ 5.75
+// * Mr. Satan ~ 6.66
+// * Pirozhki ~ 6
+// * Krillin ~ 29,900,000
+// * Tien ~ 27,300,000
+// * Yamcha ~ 27,000,000
+// * Chiaotzu ~ 9,100,000
+// * Future Bulma ~ 4
+// * Future Android 17 ~ 256,000,000
+// * Future Android 18 ~ 244,000,000
+// * Future Imperfect Cell ~ 252,500,000
+// * -Kamehameha ~ 315,625,000
+// * Mr. Lao ~ 168
+// * Cyborg Tao ~ 210
+// * Korin ~ 190
+// * Yajirobe ~ 970
+// * A Girl Named Lime ~ 3.5
+// * Mr. Borbonne ~ 4.5
+// * Burdwell ~ 5
+// * Kasdan ~ 5
+// * Baby Trunks ~ 2
+// * Panchy ~ 4.2
+// * Bulma ~ 4.2
+// * Dr. Brief ~ 4.25
+// * Scratch ~ 2.5
+// * King Furry ~ 5
+// * Fortuneteller Baba ~ 3
+// * Turtle ~ 0.001
+// * Oolong ~ 3.5
+// * Puar ~ 3.25
+// * Ginyu Frog ~ 2.4
+// * Ox-King ~ 97
+// * Chi-Chi ~ 130
+// * Moori ~ 1,050
+// * Dende ~ 840
+// * Mr. Popo ~ 1,030
+// * Master Roshi ~ 690
+// * Bubbles ~ 1,000
+// * Gregory ~ 1,100
+// * King Kai ~ 3,500
+// * Vodka ~ 4
+// * Vodka's Bodyguards ~ 5.125
+// * Jimmy Firecracker ~ 4.5
+// * Lionel ~ 4.5
+// * Ms. Piiza ~ 4.5
+
+// Other World Saga
+// * Ogres ~ 130
+// * Goz ~ 210
+// * Mez ~ 210
+// * King Yemma ~ 2,600
+// * King Kai ~ 3,500
+// * Bubbles ~ 1,000
+// * Gregory ~ 1,100
+// * East Kai ~ 3,000
+// * South Kai ~ 3,750
+// * West Kai ~ 3,250
+// * Guldo ~ 10,000
+// * Recoome ~ 40,000
+// * Jeice ~ 42,000
+// * Burter ~ 43,000
+// * Perfect Cell ~ 2,500,000,000+
+// * True Form Frieza ~ 2,400,000+
+// * King Cold ~ 2,700,000+
+// * Goku ~ 45,000,000
+// * -MSSJ ~ 2,250,000,000
+// * -Otherworld Tournament ~ 47,200,000
+// * -MSSJ ~ 2,360,000,000
+// * -Super Kaioken ~ 4,720,000,000
+// * -Instant Kamehameha ~ 5,900,000,000
+// * Pikkon ~ 45,000,000+
+// * -Burning Shoot ~ 2,812,500,000
+// * -Full Power ~ 2,250,000,000
+// * -Hyper Tornado ~ 2,812,500,000
+// * -Thunder Flash ~ 5,625,000,000
+// * Obilu ~ 36,000,000
+// * Grand Kai ~ 1,500,000,000
+// * Alien Announcer ~ 500
+// * Average Otherworld Martial Artists ~ 500 to 500,000
+// * Mijorin ~ 300,000
+// * Sarta ~ 500,000
+// * Gorilla ~ 1,500,000
+// * Chapuchai ~ 28,000,000
+// * Caterpy ~ 25,000,000
+// * Tapkar ~ 3,250,000
+// * -Speed Up ~ 32,500,000
+// * Torbie ~ 33,750,000
+// * Maraikoh ~ 31,500,000
+// * Froug ~ 28,750,000
+// * Arqua ~ 600,000
+// * -In Water ~ 30,000,000
+
+// Bojack Unbound
+// * Bojack ~ 2,700,000,000
+// * -Transformed ~ 4,320,000,000
+// * Gohan ~ 50,000,000
+// * -MSSJ ~ 2,500,000,000
+// * -SSJ2 ~ 5,000,000,000
+// * Piccolo ~ 1,300,000,000+
+// * -Unweighted ~ 1,650,000,000
+// * Krillin ~ 31,500,000
+// * Tien ~ 30,000,000
+// * Yamcha ~ 28,000,000
+// * Chiaotzu ~ 10,000,000
+// * Future Trunks ~ 34,400,000
+// * -SSJ ~ 1,720,000,000
+// * Kogu ~ 750,000,000
+// * -Full Power ~ 1,200,000,000
+// * Bujin ~ 1,240,000,000
+// * Bido ~ 1,250,000,000
+// * Zangya ~ 1,260,000,000
+// * Vegeta ~ 36,000,000
+// * -SSJ ~ 1,800,000,000
+// * Oolong ~ 3.5
+// * Bulma ~ 4.2
+// * Mr. Satan ~ 6.66
+// * Udo ~ 6.25
+// * Sky Dragon ~ 42
+// * Doskoi ~ 44
+// * Master Multimllionaire ~ 3.5
+// * Mr. Multimllionaire ~ 5
+// * Mrs. Multimllionaire ~ 4
+// * Announcer ~ 5
+// * Chi-Chi ~ 130
+// * Master Roshi ~ 690
+// * Bubbles ~ 1,000
+
+// Great Saiyaman Saga
+// * Gohan ~ 48,000,000
+// * -MSSJ ~ 2,400,000,000
+// * -Great Saiyaman ~ 250+
+// * -Post Training ~ 50,000,000
+// * Chi-Chi ~ 137
+// * Goten ~ 25,000,000
+// * -MSSJ ~ 1,250,000,000
+// * -Post Training ~ 32,000,000
+// * Trunks ~ 26,000,000
+// * -MSSJ ~ 1,300,000,000
+// * -Post Training ~ 33,600,000
+// * Vegeta ~ 52,000,000
+// * -MSSJ ~ 2,600,000,000
+// * -Post Training ~ 54,000,000
+// * Goku ~ 59,000,000
+// * -MSSJ ~ 2,950,000,000
+// * -Post Training ~ 60,000,000
+// * King Kai ~ 3,500
+// * South Kai ~ 3,750
+// * Piccolo ~ 1,650,000,000+
+// * -Post Training ~ 1,680,000,000+
+// * Android 18 ~ 295,000,000
+// * -Post Training ~ 300,000,000
+// * Krillin ~ 38,000,000
+// * -Post Training ~ 40,000,000
+// * Yamcha ~ 36,000,000
+// * Master Roshi ~ 960
+// * Dende ~ 1,680
+// * Mr. Popo ~ 1,030
+// * Videl ~ 7
+// * -Post Training ~ 7.77
+// * Mr. Satan ~ 6.5
+// * -Post Training ~ 6.6
+// * Robber ~ 5
+// * Average Humans ~ 3 to 5
+// * Fortuneteller Baba ~ 3
+// * Marron ~ 6.5
+// * Ginyu Frog ~ 2.4
+// * Puar ~ 3.25
+// * Oolong ~ 3.5
+// * Ox-King ~ 97
+// * Bulma ~ 4.2
+// * Tournament Announcer ~ 5
+// * Angela ~ 4.2
+// * Erasa ~ 4.2
+// * Sharpner ~ 5.2
+// * Chobi ~ 3.5
+// * Musuka ~ 4.8
+// * Red Shark Gang ~ 5 to 5.25
+// * Rock ~ 5.5
+// * Chobi's Mother ~ 6
+// * Toh-Toh ~ 6.25
+// * Satan City Mayor ~ 4.5
+
+// Broly Second Coming
+// * SSJ Broly ~ 3,125,000,000
+// * -LSSJ ~ 5,000,000,000
+// * -Omega Blaster ~ 6,250,000,000
+// * Gohan ~ 50,000,000
+// * -MSSJ ~ 2,500,000,000
+// * -SSJ2 ~ 4,000,000,000
+// * Goku ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * Goten ~ 25,000,000
+// * -MSSJ ~ 1,250,000,000
+// * Trunks ~ 26,000,000
+// * -MSSJ ~ 1,300,000,000
+// * Krillin ~ 38,000,000
+// * Bros Kamehameha ~ 4,700,000,000
+// * Son Familly Kamehameha ~ 8,500,000,000
+// * Videl ~ 7.77
+// * Coco ~ 3
+// * Coco's Grandfather ~ 4
+// * Zalador ~ 4
+// * Maloja ~ 5
+
+// - HP Bars 5
+
+// World Tournament Saga
+// * Gohan ~ 50,000,000
+// * -MSSJ ~ 2,500,000,000
+// * -SSJ2 ~ 4,000,000,000
+// * Goten ~ 32,000,000
+// * -kamehameha ~ 50,000,000
+// * -MSSJ ~ 1,600,000,000
+// * Mr. Satan ~ 6.6
+// * Videl ~ 7.77
+// * Trunks ~ 33,600,000
+// * -Double Buster ~ 54,000,000
+// * -MSSJ ~ 1,680,000,000
+// * Vegeta ~ 54,000,000
+// * Young Spopovich ~ 5.4
+// * Spopovich ~ 6.4+
+// * -Powered Up ~ 8
+// * -Full Power ~ 32
+// * Yamu ~ 7.2+
+// * -Full Power ~ 36
+// * East Kai ~ 3,000
+// * West Kai ~ 3,250
+// * King Kai ~ 3,500
+// * South Kai ~ 3,750
+// * Grand Kai ~ 1,750,000,000
+// * Supreme Kai ~ 2,250,000,000
+// * Kibito ~ 45,000,000
+// * Piccolo ~ 1,680,000,000+
+// * -Heavily Suppressed ~ 16
+// * Krillin ~ 40,000,000
+// * -Heavily Suppressed ~ 12
+// * Yamcha ~ 36,000,000
+// * Android 18 ~ 300,000,000
+// * -Suppressed ~ 30
+// * -Heavily Suppressed ~ 15
+// * Goku ~ 60,000,000
+// * -Heavily Suppressed ~ 10
+// * Master Roshi ~ 960
+// * Chi-Chi ~ 137
+// * Ox-King ~ 97
+// * Korin ~ 190
+// * Yajirobe ~ 970
+// * Bulma ~ 4.2
+// * Marron ~ 6.5
+// * Oolong ~ 3.5
+// * Puar ~ 3.25
+// * Average Adult Humans ~ 4 to 5
+// * The Tournament's Martial Artists ~ 5.25
+// * Tournament Announcer ~ 5
+// * Marvin ~ 4.5
+// * Idasam ~ 4.2
+// * Erasa ~ 4.2
+// * Sharpner ~ 5.2
+// * Average Human Child ~ 3 to 4
+// * Mooki ~ 4.25
+// * Koryuu ~ 4.5
+// * Ikose ~ 4.75
+// * Idasa ~ 5
+// * Mighty Mask ~ 5.5
+// * Killa ~ 5.5
+// * Jewel ~ 6
+// * Pintar ~ 5.75
+
+// Babidi Saga
+// * Goku ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -Glimpse of SSJ2 ~ 5,250,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * Vegeta ~ 54,000,000
+// * -Majin Boost ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * Krillin ~ 40,000,000
+// * Kibito ~ 45,000,000
+// * Piccolo ~ 1,680,000,000+
+// * Shin ~ 2,250,000,000
+// * Gohan ~ 50,000,000
+// * -MSSJ ~ 2,500,000,000
+// * -Kamehameha ~ 3,125,000,000
+// * -SSJ2 ~ 4,500,000,000
+// * Spopovich ~ 32
+// * Yamu ~ 36
+// * Pui-Pui ~ 16,000
+// * -On Planet Zoon ~ 160,000
+// * Yakon ~ 40,000,000
+// * -On Planet of Darkness ~ 80,000,000
+// * -Full Stomach ~ 800,000,000
+// * Majin Soldier ~ 4,000
+// * Dabura ~ 2,600,000,000+
+// * -Evil Impulse ~ 3,250,000,000
+// * -Full Power ~ 4,440,000,000
+// * -w. Magic ~ 5,200,000,000
+// * Babidi ~ 4
+// * -w. Magic ~ 1,600,000,000
+// * Goten ~ 32,000,000
+// * -MSSJ ~ 1,600,000,000
+// * Trunks ~ 33,600,000
+// * -MSSJ ~ 1,680,000,000
+// * Android 18 ~ 300,000,000
+// * Videl ~ 7.77
+// * Erasa ~ 4.2
+// * Sharpner ~ 5.2
+// * Bulma ~ 4.2
+// * Chi-Chi ~ 137
+// * Puar ~ 3.25
+// * Oolong ~ 3.5
+// * Marron ~ 6.5
+// * Ox-King ~ 97
+// * Yamcha ~ 36,000,000
+// * Master Roshi ~ 960
+// * Tournament Announcer ~ 5
+// * Killa ~ 5.5
+// * Jewel ~ 6
+// * Mr. Satan ~ 6.6
+// * Mighty Mask ~ 5.5
+
+// Majin Buu Saga
+// * Fat Buu ~ 4,800,000,000+
+// * -Powered Up ~ 8,700,000,000
+// * -Full Power ~ 10,000,000,000
+// * -Kamehameha ~ 12,500,000,000
+// * -Vs. Gotenks ~ 100,000,000+
+// * Gohan ~ 50,000,000
+// * -MSSJ ~ 2,500,000,000
+// * -SSJ2 ~ 4,500,000,000
+// * -Kamehameha ~ 5,625,000,000
+// * -Z-Sword Training ~ 67,200,000
+// * -MSSJ ~ 3,360,000,000
+// * -SSJ2 ~ 6,720,000,000
+// * -Post Z-Sword Training ~ 84,000,000
+// * -SSJ2 ~ 8,400,000,000
+// * Dabura ~ 4,440,000,000
+// * Shin ~ 2,250,000,000
+// * MSSJ Vegeta ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * -Atomic Blast ~ 7,500,000,000
+// * -Final Explosion ~ 9,000,000,000
+// * Goku ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * -SSJ3 ~ 12,000,000,000+
+// * -Kamehameha ~ 15,000,000,000
+// * Babidi ~ 4
+// * -w Magic ~ 1,600,000,000
+// * Piccolo ~ 1,680,000,000+
+// * Goten ~ 32,000,000
+// * -MSSJ ~ 1,600,000,000
+// * Trunks ~ 33,600,000
+// * -MSSJ ~ 1,680,000,000
+// * Android 18 ~ 300,000,000
+// * Yamcha ~ 36,000,000
+// * Chiaotzu ~ 15,000,000
+// * Tien ~ 45,000,000
+// * Gotenks ~ 80,000,000
+// * -Failed Fusion ~ 65,600,000
+// * -MSSJ ~ 4,000,000,000
+// * Master Roshi ~ 960
+// * Chi-Chi ~ 137
+// * Ox-King ~ 97
+// * Bulma ~ 4.2
+// * Oolong ~ 3.5
+// * Puar ~ 3.25
+// * Tournament Announcer ~ 5
+// * Mr. Satan ~ 6.6
+// * Videl ~ 7.77
+// * Marron ~ 6.5
+// * Giant Dinosaur ~ 15
+// * Yajirobe ~ 970
+// * Korin ~ 190
+// * Mr. Popo ~ 1,030
+// * Dende ~ 1,680
+// * Ogres ~ 130
+// * King Yemma ~ 2,600
+// * King Kai ~ 3,500
+// * Elder Kai ~ 4,500
+// * Panchy ~ 4.2
+// * Dr. Brief ~ 4.25
+// * Scratch ~ 2.5
+// * Ikose ~ 4.75
+// * Idasa ~ 5
+// * Idasam ~ 4.2
+// * Tommy ~ 3.5
+// * Van Zant ~ 5
+// * -With Rifle ~ 8
+// * Smitty ~ 5
+// * -With Rifle ~ 8
+// * Bee ~ 3.75
+
+// Bio-Broly
+// * Bio-Broly ~ 2,500,000,000
+// * -Giant ~ 3,125,000,000
+// * Goten ~ 40,000,000
+// * -MSSJ ~ 2,000,000,000
+// * Trunks ~ 42,000,000
+// * -MSSJ ~ 2,100,000,000
+// * Goku ~ 60,000,000
+// * Android 18 ~ 300,000,000
+// * Krillin ~ 40,000,000
+// * Bio Warriors ~ 50 to 58
+// * Nain ~ 4
+// * Dr. Collie ~ 4
+// * Zalador ~ 4
+// * Lord Jaguar ~ 4.8
+// * Menmen ~ 5
+// * Mr. Satan ~ 6.6
+// * Marron ~ 6.5
+
+// Fusion Reborn
+// * Saike Demon ~ 5
+// * Chi-Chi ~ 137
+// * Bulma ~ 4.2
+// * South Kai ~ 3,750
+// * West Kai ~ 3,250
+// * East Kai ~ 3,000
+// * King Kai ~ 3,500
+// * Grand Kai ~ 1,750,000,000
+// * King Yemma ~ 2,600
+// * Zombies ~ 5.2
+// * Mr. Satan ~ 6.6
+// * Videl ~ 7.77
+// * The Dictator and his Tanks ~ 88.41
+// * Gohan ~ 84,000,000
+// * Goten ~ 40,000,000
+// * -MSSJ ~ 2,000,000,000
+// * Trunks ~ 42,000,000
+// * -MSSJ ~ 2,100,000,000
+// * Gotenks ~ 100,000,000
+// * -MSSJ ~ 5,000,000,000
+// * Arqua ~ 600,000
+// * Froug ~ 28,750,000
+// * Pikkon ~ 45,000,000+
+// * Goku ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * -SSJ3 ~ 24,000,000,000
+// * Janemba ~ 15,000,000,000
+// * -Super Janemba ~ 75,000,000,000
+// * Veku ~ 120,000,000
+// * Vegeta ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * MSSJ Gogeta ~ 125,000,000,000
+
+// Fusion Saga
+// * Bee ~ 3.75
+// * Van Zant ~ 5
+// * Smitty ~ 5
+// * Mr. Satan ~ 6.6
+// * Fat Buu ~ 10,000,000,000
+// * Evil Buu ~ 5,200,000,000
+// * Good Buu ~ 4,800,000,000
+// * Super Buu ~ 32,000,000,000
+// * -Absorbed Gotenks ~ 74,150,000,000
+// * -Absorbed Piccolo, Goten, Trunks ~ 38,250,000,000
+// * -Absorbed Gohan ~ 80,250,000,000
+// * -Energy Sphere ~ 160,500,000,000
+// * -Vice Shout ~ 200,625,000,000
+// * -Absorbed Piccolo ~ 34,150,000,000
+// * -Buff ~ 42,500,000,000
+// * Piccolo ~ 1,680,000,000+
+// * -Unseen Full Power ~ 2,150,000,000
+// * Goten ~ 40,000,000
+// * Trunks ~ 42,000,000
+// * Gotenks ~ 100,000,000
+// * -MSSJ ~ 5,000,000,000
+// * -SSJ3 ~ 40,000,000,000
+// * Gohan ~ 84,000,000
+// * -Ultimate Gohan Glimpse of Power ~ 33,600,000,000
+// * -Ultimate Gohan ~ 42,000,000,000
+// * Goku ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ3 ~ 24,000,000,000
+// * Vegeta ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * Tien ~ 45,000,000
+// * -Kikoho ~ 270,000,000
+// * Vegito ~ 90,000,000,000+
+// * -Full Power ~ 180,000,000,000
+// * -MSSJ ~ 9,000,000,000,000
+// * Shin ~ 2,250,000,000
+// * Kibito Kai ~ 4,500,000,000
+// * Elder Kai ~ 4,500
+// * Young Elder Kai ~ 2,250,000,000
+// * Old Witch ~ 4
+// * Kibito ~ 45,000,000
+// * Fortuneteller Baba ~ 3
+// * King Yemma ~ 2,600
+// * King Kai ~ 3,500
+// * Mr. Popo ~ 1,030
+// * Dende ~ 1,680
+// * Gorilla ~ 1,500,000
+// * Olibu ~ 36,000,000
+// * Yamcha ~ 36,000,000
+// * -Otherworld Training ~ 45,000,000
+// * Krillin ~ 40,000,000
+// * -Otherworld Training ~ 50,000,000
+// * Android 18 ~ 300,000,000
+// * Master Roshi ~ 960
+// * Ox-King ~ 97
+// * Chi-Chi ~ 137
+// * Puar ~ 3.25
+// * Oolong ~ 3.5
+// * Bulma ~ 4.2
+// * Marron ~ 6.5
+// * Videl ~ 7.77
+// * Enzymes ~ 2.5
+// * Children Roundworm ~ 88
+// * Papa Roundworm ~ 122
+
+// Kid Buu Saga
+// * Goku ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * -SSJ3 ~ 24,000,000,000
+// * -Super Spirit Bomb ~ 240,000,000,000
+// * Vegeta ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * Good Buu ~ 4,800,000,000
+// * Mr. Satan ~ 6.6
+// * Super Buu ~ 32,000,000,000
+// * -Buff ~ 42,500,000,000
+// * Kid Buu ~ 22,000,000,000
+// * -True Potential ~ 220,000,000,000
+// * Bibidi ~ 4.5
+// * -w. Magic ~ 80,000,000
+// * Lizard Aliens ~ 1,000
+// * Buu ~ 22,000,000,000
+// * -South Supreme Kai Absorbed ~ 32,500,000,000
+// * -Grand Supreme Kai Absorbed ~ 10,000,000,000
+// * West Supreme Kai ~ 2,340,000,000
+// * North Supreme Kai ~ 2,360,000,000
+// * South Supreme Kai ~ 2,500,000,000
+// * -w. Magic ~ 10,500,000,000
+// * Past East Supreme Kai ~ 1,500,000,000
+// * Grand Supreme Kai ~ 2,400,000,000
+// * -w. Magic ~ 10,000,000,000
+// * Kibitoshin ~ 4,500,000,000
+// * Elder Kai ~ 4,500
+// * Dende ~ 1,680
+// * West Kai ~ 3,250
+// * King Kai ~ 3,500
+// * King Yemma ~ 2,600
+// * Average Otherworld Fighter ~ 500 to 500,000
+// * Sarta ~ 500,000
+// * Froug ~ 28,750,000
+// * Maraikoh ~ 31,500,000
+// * Torbie ~ 33,750,000
+// * Olibu ~ 36,000,000
+// * Pikkon ~ 45,000,000+
+// * Krillin ~ 50,000,000
+// * Yamcha ~ 45,000,000
+// * Moori ~ 1,050
+// * Namekians ~ 1,000 to 3,000
+// * Ogres ~ 130
+// * Goz ~ 210
+// * Mez ~ 210
+// * Frieza Soldier ~ 1,700
+// * Guldo ~ 10,000
+// * Recoome ~ 40,000
+// * Jeice ~ 42,000
+// * Burter ~ 43,000
+// * King Cold ~ 2,700,000+
+// * True Form Frieza ~ 2,400,000+
+// * Perfect Cell ~ 2,500,000,000+
+// * Dabura ~ 2,600,000,000+
+// * Goten ~ 40,000,000
+// * Trunks ~ 42,000,000
+// * Gohan ~ 84,000,000
+// * Piccolo ~ 1,680,000,000+
+// * Bulma ~ 4.2
+// * Ox-King ~ 97
+// * Chi-Chi ~ 137
+// * Marron ~ 6.5
+// * Android 18 ~ 300,000,000
+// * Videl ~ 7.77
+// * -Great Saiyaman 2 ~ 7.7
+// * Master Roshi ~ 960
+// * Puar ~ 3.25
+// * Oolong ~ 3.5
+// * Mr. Popo ~ 1,030
+// * Upa ~ 19
+// * Bora ~ 38
+// * Yajirobe ~ 970
+// * Korin ~ 190
+// * Android 17 ~ 4,800,000,000
+// * Chiaotzu ~ 15,000,000
+// * Tien Shinhan ~ 45,000,000
+// * Android 8 ~ 80
+// * Suno ~ 4
+// * Launch ~ 4
+// * Nam ~ 56
+// * Giran ~ 40
+// * Bandages the Mummy ~ 70
+// * Spike the Devilman ~ 100
+// * Sharpner ~ 5.2
+// * Erasa ~ 4.2
+// * King Furry ~ 5
+// * Average Earthlings ~ 5
+
+// Wrath of the Dragon
+// * Gohan ~ 84,000,000
+// * -Ultimate Gohan ~ 42,000,000,000
+// * Videl ~ 7.7
+// * Goten ~ 40,000,000
+// * -MSSJ ~ 2,000,000,000
+// * Trunks ~ 42,000,000
+// * -MSSJ ~ 2,100,000,000
+// * Krillin ~ 50,000,000
+// * Konatsian Wizard ~ 45,000,000
+// * Tapion ~ 43,500,000
+// * Minotia ~ 41,500,000
+// * Hirudegarn Half ~ 15,000,000,000
+// * -First Form ~ 30,000,000,000
+// * -Final Form ~ 60,000,000,000
+// * Hoi ~ 150
+// * Gotenks ~ 100,000,000
+// * -MSSJ ~ 5,000,000,000
+// * -SSJ3 ~ 40,000,000,000
+// * Goku ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * -SSJ3 ~ 24,000,000,000
+// * -Dragon Fist ~ 90,000,000,000
+// * Vegeta ~ 60,000,000
+// * -MSSJ ~ 3,000,000,000
+// * -SSJ2 ~ 6,000,000,000
+// * Master Roshi ~ 960
+// * Oolong ~ 3.5
+// * Ms. Hamilton ~ 4.2
+// * Bulma ~ 4.2
+// * Sharpner ~ 5.2
+
+// Return of Goku and his friends
+// * Chi-Chi ~ 137
+// * Bulma ~ 4.2
+// * Gohan ~ 84,000,000
+// * Videl ~ 7.7
+// * Good Buu ~ 4,800,000,000
+// * Ox-King ~ 97
+// * Master Roshi ~ 960
+// * Turtle ~ 0.001
+// * Launch ~ 4
+// * Oolong ~ 3.5
+// * Marron ~ 6.5
+// * Puar ~ 3.25
+// * Piccolo ~ 1,771,000,000+
+// * Mr. Satan ~ 6.6
+// * Vegeta ~ 65,000,000
+// * -MSSJ ~ 3,250,000,000
+// * Goku ~ 67,500,000
+// * -MSSJ ~ 3,375,000,000
+// * Tarble ~ 5,000
+// * Mr. Popo ~ 1,030
+// * Dende ~ 1,680
+// * Korin ~ 190
+// * Yajirobe ~ 970
+// * Elder Kai ~ 4,500
+// * Kibito Kai ~ 4,500,000,000
+// * King Kai ~ 3,500
+// * Bubbles ~ 1,000
+// * Gregory ~ 1,100
+// * Fortune Teller Baba ~ 3
+// * Krillin ~ 50,000,000
+// * Android 18 ~ 300,000,000
+// * Gure ~ 3
+// * Abo ~ 33,750,000
+// * Kado ~ 33,750,000
+// * Goten ~ 40,000,000
+// * Trunks ~ 42,000,000
+// * Aka ~ 168,750,000
+// * Gotenks ~ 100,000,000
+// * -Fat ~ 82,000,000
+// * -MSSJ ~ 5,000,000,000
+// * Yamcha ~ 45,000,000
+
+// Peaceful World Saga
+// * Teen Goten ~ 50,000,000
+// * Chi-Chi ~ 97
+// * Ox-King ~ 65
+// * Master Roshi ~ 1,390
+// * Dende ~ 1,680
+// * Puar ~ 3.25
+// * Oolong ~ 3.5
+// * Yamcha ~ 36,000,000
+// * Gohan ~ 130,700,000
+// * Teen Trunks ~ 65,340,000
+// * Bulla ~ 20,000,000
+// * Pan ~ 60,000,000
+// * Krillin ~ 40,000,000
+// * Yamcha ~ 36,000,000
+// * Mr. Buu ~ 4,800,000,000
+// * Piccolo ~ 8,800,000,000+
+// * Bee ~ 3.85
+// * Bulma ~ 4
+// * Mr. Satan ~ 6
+// * Uub ~ 44+
+// * -Enraged ~ 88,000,000
+// * -Adapting ~ 132,000,000
+// * -True Power ~ 22,000,000,000
+// * Vegeta ~ 137,500,000+
+// * Goku ~ 150,000,000+
+// * -Glimpse of True Power ~ 24,000,000,000
+// * Android 18 ~ 300,000,000
+// * Marron ~ 8
+// * Mou Kekko ~ 5.45
+// * Knock ~ 5.3
+// * Kirano ~ 5.35
+// * Literally "Man-Lover" ~ 5.5
+// * Captain Chicken ~ 5.4
+// * Tournament Announcer ~ 5
+
+// - - - - - - - - - - Dragon Ball GT - - - - - - - - - -
+
+// Black Star Dragon Ball Saga
+// * Pan ~ 42,000,000
+// * Bank Robbers ~ 5
+// * Pilaf ~ 3.2
+// * Mai ~ 3.3
+// * Shu ~ 3.4
+// * Trunks ~ 72,000,000
+// * -MSSJ ~ 3,600,000,000
+// * Goku ~ 90,000,000,000
+// * -Kid ~ 90,000,000
+// * -MSSJ ~ 4,500,000,000
+// * Uub ~ 88,000,000,000
+// * Giru ~ 2,000
+// * Imeckian Soldiers ~ 5.75
+// * Gale ~ 6,000
+// * Sheela ~ 4,000
+// * Don Kee ~ 5
+// * Ledgic ~ 112,500,000
+// * Spider ~ 8
+// * Zoonama ~ 300
+// * Mouma ~ 260
+// * Son Para ~ 5.1
+// * Don Para ~ 5.2
+// * Bon Para ~ 5.3
+// * Leon ~ 600
+// * Cardinal Mutchy Mutchy ~ 6.75
+// * -Whip ~ 67,500,000
+// * -Mutchy ~ 3,375,000,000
+// * Luud ~ 20,000,000,000
+// * -Pan Absorbed ~ 30,000,000,000
+// * Doltaki ~ 5
+// * Sandipede ~ 220
+// * Goten ~ 70,000,000
+// * Gohan ~ 140,000,000
+// * Bulla ~ 40,000,000
+// * Vegeta ~ 180,000,000
+// * Dende ~ 1,680
+// * Mr. Popo ~ 1,030
+// * King Kai ~ 3,500
+// * Master Roshi ~ 1,390
+// * Videl ~ 7
+// * Chi-Chi ~ 97
+// * Bulma ~ 4
+// * Mr. Satan ~ 5.6
+
+// Baby Saga
+// * Goku ~ 9,000,000,000
+// * -MSSJ ~ 450,000,000,000
+// * -SSJ2 ~ 900,000,000,000
+// * -SSJ3 ~ 3,600,000,000,000
+// * -Tail Regrown ~ 10,000,000,000
+// * -MSSJ ~ 500,000,000,000
+// * -SSJ3 ~ 4,000,000,000,000
+// * -Uncontrolled Golden Great Ape ~ 5,000,000,000,000
+// * -True Power ~ 40,000,000,000,000
+// * -SSJ4 ~ 40,000,000,000,000+
+// * -Full Power ~ 50,000,000,000,000
+// * Pan ~ 45,000,000
+// * -Enraged ~ 90,000,000
+// * -Maiden's Rage ~ 1,125,000,000
+// * Trunks ~ 72,000,000
+// * -MSSJ ~ 3,600,000,000
+// * -Post Planet M2 ~ 85,000,000
+// * -MSSJ ~ 4,250,000,000
+// * -Baby Infected ~ 2,085,000,000
+// * -MSSJ ~ 6,250,000,000
+// * Goten ~ 70,000,000
+// * -MSSJ ~ 3,500,000,000
+// * -Baby Infected ~ 2,070,000,000
+// * -MSSJ ~ 5,500,000,000
+// * Gohan ~ 140,000,000
+// * -MSSJ ~ 7,000,000,000
+// * -Baby Infected ~ 2,140,000,000
+// * -MSSJ ~ 9,000,000,000
+// * Piccolo ~ 8,800,000,000+
+// * Machine Mutant Guards ~ 1,500
+// * Giru ~ 2,000
+// * Natt ~ 1,000,000,000
+// * Bizu ~ 1,125,000,000
+// * Ribet ~ 1,125,000,000
+// * Commander Nezi ~ 1,250,000,000
+// * Super Mega Cannon Sigma ~ 4,500,000,000
+// * General Rilldo ~ 8,500,000,000
+// * -Hyper-Meta Rilldo ~ 425,000,000,000
+// * -Meta-Rilldo ~ 637,500,000,000
+// * Dr. Myuu ~ 25,600
+// * Infant Baby ~ 100,000,000
+// * -Infected Rilldo ~ 8,600,000,000
+// * -Infected Trunks ~ 185,000,000
+// * -Perfect Baby ~ 10,000,000,000
+// * Humans Baby Infected ~ 2,000,000,000
+// * Vegeta ~ 180,000,000
+// * -MSSJ ~ 9,000,000,000+
+// * -Full Power ~ 4,500,000,000,000
+// * Good Buu ~ 4,800,000,000
+// * Uub ~ 220,000,000,000
+// * -Majuub ~ 440,000,000,000
+// * Baby Vegeta ~ 92,000,000,000
+// * -MSSJ ~ 4,502,000,000,000
+// * -Super Baby Vegeta ~ 9,002,000,000,000
+// * -Super Baby Vegeta 2 ~ 36,002,000,000,000
+// * -Golden Great Ape ~ 45,002,000,000,000
+// * Kibitoshin ~ 4,500,000,000
+// * Elder Kai ~ 4,500
+// * Dende ~ 1,680
+// * Mr. Popo ~ 1,030
+// * Shusugoro ~ 3.5
+// * Sugoro ~ 5
+// * Bulma ~ 4
+// * Bulla ~ 40,000,000
+// * Android 18 ~ 300,000,000
+// * Marron ~ 9
+// * Krillin ~ 36,000,000
+// * Yamcha ~ 30,000,000
+// * Tien ~ 37,500,000
+// * Chiaotzu ~ 12,500,000
+// * Master Roshi ~ 1,390
+// * Turtle ~ 0.001
+// * Oolong ~ 3.5
+// * Puar ~ 3.25
+// * Mr. Satan ~ 5.6
+// * Videl ~ 7
+// * -Baby Infected ~ 2,000,000,000
+// * Chi-Chi ~ 97
+// * Ox-King ~ 65
+// * Palace ~ 4
+// * Moori ~ 1,050
+// * King Furry ~ 5
+// * Suno ~ 4
+// * Android 8 ~ 80
+// * Nam ~ 46
+// * Upa ~ 19
+// * Bora ~ 25
+// * Korin ~ 190
+// * Yajirobe ~ 900
+// * Pilaf ~ 3.2
+// * Mai ~ 3.3
+// * Shu ~ 3.4
+
+// Super 17 Saga
+// * Charlie ~ 3.8
+// * Mugley ~ 3.5
+// * Hell Fighter 17 ~ 80,000,000,000
+// * Android 17 ~ 80,000,000,000
+// * Vegeta ~ 100,000,000,000
+// * -MSSJ ~ 5,000,000,000,000
+// * Super 17 ~ 160,000,000,000
+// * -Gohan Kamehameha Absorbed ~ 320,000,000,000
+// * -Z Fighters Ki Absorbed ~ 8,000,000,000,000
+// * -SSJ4 Goku Ki Absorbed ~ 408,000,000,000,000
+// * -10x Kamehameha Absorbed ~ 440,000,000,000,000
+// * -Final Explosion Absorbed ~ 480,000,000,000,000
+// * Goku ~ 10+
+// * -Ticklish ~ 2
+// * -Heavily Suppressed ~ 100,000,000+
+// * -Less Suppressed ~ 10,000,000,000+
+// * -True Power ~ 100,000,000,000
+// * -MSSJ ~ 5,000,000,000,000
+// * -SSJ4 ~ 400,000,000,000,000
+// * -Drained, 10x Kamehameha ~ 432,000,000,000,000
+// * -Drained, Final Explosion ~ 440,000,000,000,000
+// * -Dragon Fist ~ 500,000,000,000,000
+// * Majuub ~ 484,000,000,000
+// * Trunks ~ 85,000,000
+// * ~MSSJ ~ 4,250,000,000
+// * Goten ~ 70,000,000
+// * -MSSJ ~ 3,500,000,000
+// * Gohan ~ 140,000,000
+// * -MSSJ ~ 7,000,000,000
+// * -Kamehameha ~ 160,000,000,000
+// * Piccolo ~ 8,800,000,000+
+// * Android 18 ~ 300,000,000
+// * Krillin ~ 36,000,000
+// * Pan ~ 50,000,000
+// * Bulla ~ 40,000,000
+// * Dr. Gero ~ 128,000,000
+// * Dr. Myuu ~ 25,600
+// * Frieza ~ 6,000,000,000
+// * Cell ~ 7,500,000,000
+// * General Rilldo ~ 8,500,000,000
+// * Nappa ~ 4,000
+// * Saibamen ~ 1,200
+// * Pui Pui ~ 16,000
+// * Yakon ~ 40,000,000
+// * General Blue ~ 48
+// * Staff Officer Black ~ 8
+// * -Battle Jacket ~ 100
+// * Major Metallitron ~ 46
+// * Captain Yellow ~ 5.3
+// * Marron ~ 9
+// * Chi-Chi ~ 97
+// * Videl ~ 7
+// * Mr. Satan ~ 5.6
+// * Bulma ~ 4
+// * Palace ~ 4
+// * Tournament Announcer ~ 5
+// * Giru ~ 2,000
+// * King Yemma ~ 2,600
+// * King Kai ~ 3,500
+// * Mr. Popo ~ 1,030
+// * Dende ~ 1,680
+// * Enma ~ 3
+
+// - HP Bars 8
+
+// Shadow Dragon Saga
+// * Goku ~ 100,000,000,000
+// * -SSJ4 ~ 400,000,000,000,000
+// * -Blinded ~ 200,000,000,000,000
+// * -Ultra Full Power SSJ4 ~ 2,000,000,000,000,000
+// * -Universe Spirit Bomb ~ 5,900,000,000,000,000
+// * -100 Year Time Skip ~ 59,000,000,000,000,000
+// * Naturon Shenron ~ 7,000,000
+// * -Mole Absorbed ~ 70,000,000
+// * -Pan Absorbed ~ 70,000,000,000,000
+// * Haze Shenron ~ 20,000,000
+// * Rage Shenron ~ 50,000,000
+// * -Giant Offense ~ 500,000,000,000
+// * -Giant Defense ~ 500,000,000,000,000
+// * Oceanus Shenron ~ 60,000,000
+// * -Whirlwind Spin ~ 120,000,000,000
+// * -True Nature ~ 120,000,000
+// * Eis Shenron ~ 150,000,000,000,000
+// * Nuova Shenron ~ 80,000,000,000
+// * -True Form ~ 200,000,000,000,000
+// * Syn Shenron ~ 500,000,000,000,000
+// * -Omega Shenron ~ 5,000,000,000,000,000
+// * -Negative Karma Ball ~ 5,400,000,000,000,000
+// * -w. 6 Dragon Balls ~ 4,700,000,000,000,000
+// * Vegeta ~ 100,000,000,000
+// * -MSSJ ~ 5,000,000,000,000
+// * -Golden Great Ape ~ 50,000,000,000,000
+// * -SSJ4 ~ 400,000,000,000,000
+// * SSJ4 Gogeta ~ 16,000,000,000,000,000
+// * Majuub ~ 484,000,000,000
+// * Trunks ~ 85,000,000
+// * -MSSJ ~ 4,250,000,000
+// * Goten ~ 70,000,000
+// * -MSSJ ~ 3,500,000,000
+// * Gohan ~ 140,000,000
+// * -SSJ2 ~ 14,000,000,000
+// * Piccolo ~ 8,800,000,000+
+// * Krillin ~ 36,000,000
+// * Tien ~ 37,500,000
+// * Yamcha ~ 30,000,000
+// * Chiaotzu ~ 12,500,000
+// * Kibitoshin ~ 4,500,000,000
+// * Elder Kai ~ 4,500
+// * King Kai ~ 3,500
+// * Mr. Popo ~ 1,030
+// * Dende ~ 1,680
+// * West Kai ~ 3,250
+// * East Kai ~ 3,000
+// * South Kai ~ 3,750
+// * Bubbles ~ 1,000
+// * Gregory ~ 1,100
+// * Chapuchai ~ 28,000,000
+// * Froug ~ 28,750,000
+// * Maraikoh ~ 31,500,000
+// * Mijorin ~ 300,000
+// * Torbie ~ 33,750,000
+// * Giru ~ 2,000
+// * Don Kee ~ 5
+// * Sheela ~ 4,000
+// * Gale ~ 6,000
+// * Zoonama ~ 300
+// * Son Para ~ 5.1
+// * Don Para ~ 5.2
+// * Bon Para ~ 5.3
+// * Bulma ~ 4
+// * Chi-Chi ~ 97
+// * Videl ~ 7
+// * Mr. Satan ~ 5.6
+// * Master Roshi ~ 1,390
+// * Turtle ~ 0.001
+// * Puar ~ 3.25
+// * Android 18 ~ 300,000,000
+// * Marron ~ 9
+// * King Furry ~ 5
+// * Colm ~ 3.2
+// * Pan ~ 50,000,000
+// * -Old ~ 36,000,000
+// * Bulma Leigh ~ 4.2
+// * Goku Jr. ~ 360
+// * -SSJ ~ 18,000
+// * Vegeta Jr. ~ 360
+// * -SSJ ~ 18,000
+
+// A Hero’s Legacy
+// * Goku Jr. ~ 4
+// * -Vs. King Yao ~ 5.9
+// * -SSJ ~ 295
+// * Grandma Pan ~ 36,000,000
+// * -Sick ~ 1.8
+// * Puck ~ 4.2
+// * Puck's Group ~ 3.5 to 4
+// * Truck Driver ~ 4.9
+// * Wolves ~ 5
+// * Mamba ~ 5.6
+// * Torga ~ 5.7
+// * Susha ~ 5.8
+// * Baby Bear ~ 4
+// * Adult Bear ~ 6.5
+// * King Yao ~ 26
